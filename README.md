@@ -4,4 +4,5 @@
 见 `description.md`  
 See `description.md`
 
-See also issue
+也可见 "Issues"
+See also "Issues"
